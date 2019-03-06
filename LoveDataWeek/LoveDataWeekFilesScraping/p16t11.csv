@@ -1,0 +1,81 @@
+Bureau of Justice Statistics,,,,,,,,
+Filename: p16t11.csv,,,,,,,,
+"Table 11. Non-U.S. citizen prisoners and prisoners age 17 or younger under jurisdiction of federal correctional authorities or the custody of state correctional authorities, by sex, December 31, 2016",,,,,,,,
+Report title: Prisoners in 2016 NCJ 251149,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics (NPS), 2016.",,,,,,,,
+"Author(s): E. Ann Carson, BJS Statistician",,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,
+Date of version: 1/8/2018,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Table 11. Non-U.S. citizen prisoners and prisoners age 17 or younger under jurisdiction of federal correctional authorities or the custody of state correctional authorities, by sex, December 31, 2016",,,,,,,,
+,,Non-U.S. citizen prisoners/a,,,,Prisoners age 17 or younger,,
+Jurisdiction,,Total ,Male,Female,,Total,Male,Female
+,"U.S. total/b,c,d","83,573","80,744","2,829",,956,923,33
+"Federal/c,d,e",,"39,956","38,424","1,532",,...,...,...
+State/b,,"43,617","42,320","1,297",,956,923,33
+,Alabama,176,173,3,,27,27,0
+,Alaska/f,113,108,5,,4,4,0
+,Arizona,"4,662","4,537",125,,76,74,2
+,Arkansas,278,268,10,,17,17,0
+,California,/,/,/,,0,0,0
+,Colorado/e,"1,401","1,353",48,,4,4,0
+,Connecticut/f,419,408,11,,63,61,2
+,Delaware/f,319,303,16,,12,12,0
+,Florida/g,"6,984","6,723",261,,143,138,5
+,Georgia,"2,468","2,366",102,,67,64,3
+,"Hawaii/f,h",128,122,6,,0,0,0
+,Idaho,303,291,12,,0,0,0
+,Illinois,"1,637","1,595",42,,3,3,0
+,Indiana,573,563,10,,25,23,2
+,Iowa,136,132,4,,7,7,0
+,Kansas,307,298,9,,0,0,0
+,Kentucky,154,152,2,,0,0,0
+,Louisiana,128,127,1,,11,11,0
+,Maine,56,53,3,,0,0,0
+,Maryland,603,591,12,,9,8,1
+,Massachusetts/h,623,602,21,,0,0,0
+,Michigan,535,520,15,,85,84,1
+,Minnesota,426,417,9,,8,8,0
+,Mississippi,18,18,0,,24,24,0
+,"Missouri/e,h",498,456,42,,7,7,0
+,Montana,19,17,2,,0,0,0
+,Nebraska,219,217,2,,4,4,0
+,Nevada,/,/,/,,15,15,0
+,New Hampshire,...,...,...,,0,0,0
+,New Jersey,"1,279","1,254",25,,3,3,0
+,New Mexico/i,141,138,3,,0,0,0
+,New York/e,"4,232","4,108",124,,68,66,2
+,North Carolina,"1,268","1,240",28,,72,68,4
+,North Dakota,/,/,/,,/,/,/
+,Ohio/j,479,464,15,,30,30,0
+,Oklahoma,176,173,3,,4,4,0
+,Oregon,/,/,/,,/,/,/
+,Pennsylvania,"1,117","1,083",34,,29,28,1
+,Rhode Island/f,65,64,1,,0,0,0
+,South Carolina,466,446,20,,42,41,1
+,South Dakota,87,81,6,,0,0,0
+,Tennessee/e,289,279,10,,8,8,0
+,Texas,"8,331","8,133",198,,45,40,5
+,Utah,336,329,7,,0,0,0
+,Vermont/f,2,2,0,,0,0,0
+,Virginia,849,828,21,,5,5,0
+,Washington,769,753,16,,0,0,0
+,West Virginia,25,25,0,,0,0,0
+,Wisconsin,451,438,13,,37,33,4
+,Wyoming,49,49,0,,2,2,0
+"Note: Definition of non-U.S. citizen varies across jurisdictions. Use caution when interpreting these statistics. Unless otherwise noted, counts represent the number of prisoners who are non-U.S. citizens or age 17 or younger in the physical custody of state and federal correctional authorities and excludes those held in private prisons, local jails, or other jurisdictions' facilities. Totals include imputed counts for North Dakota and Oregon, which did not submit 2016 NPS data. See Methodology.",,,,,,,,
+...Not available.,,,,,,,,
+/Not reported.,,,,,,,,
+"a/Unless otherwise noted, BJS assumes that non-U.S. citizens are identified by individual jurisdictions as persons with current citizenship of a country other than the ",,,,,,,,
+"United States as of December 31, 2016.",,,,,,,,
+b/Total U.S. and state counts of non-U.S. citizen prisoners for 2016 are an undercount due to the exclusion of data from several states that were unable to report the number of non-U.S. citizen prisoners in 2016.,,,,,,,,
+c/The Federal Bureau of Prisons (BOP) holds prisoners age 17 or younger in private contract facilities; 49 such prisoners were housed in contract facilities in 2016.,,,,,,,,
+"d/Federal counts only include those persons held in BOP-managed facilities (not private or contract facilities), and exclude persons detained by U.S. Citizenship and Immigration Services, U.S. Immigration and Customs Enforcement, or U.S. Customs and Border Protection.",,,,,,,,
+e/Non-U.S. citizens are defined as foreign born. ,,,,,,,,
+f/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,
+"g/In 2016, the Florida Department of Corrections revised its definition of non-U.S. citizen to include additional variables to determine a more accurate ""confirmed alien"" status. ",,,,,,,,
+h/Citizenship based on self-reported data.,,,,,,,,
+"i/Includes all non-U.S. citizens, regardless of whether they are held in New Mexico state facilities, private facilities, local jails, or in other jurisdiction's facilities.",,,,,,,,
+j/Counts represent all prisoners under the jurisdiction of the Ohio Department of Rehabilitation and Correction with the exception of those held in privately operated halfway houses.,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics (NPS), 2016.",,,,,,,,

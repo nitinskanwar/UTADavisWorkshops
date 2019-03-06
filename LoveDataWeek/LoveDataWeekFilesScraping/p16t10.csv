@@ -1,0 +1,32 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+Filename: p16t10.csv,,,,,,,,,,,,,
+"Table 10.   Imprisonment rate of sentenced state and federal prisoners per 100,000 U.S. residents, by sex, race, Hispanic origin, and age, December 31, 2016",,,,,,,,,,,,,
+Report title: Prisoners in 2016 NCJ 251149,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics (NPS), 2016; Federal Justice Statistics Program, 2016; National Corrections Reporting Program, 2015; Survey of Prison Inmates, 2016 (preliminary); and U.S. Census Bureau, postcensal resident population estimates for January 1, 2017.",,,,,,,,,,,,,
+"Author(s): E. Ann Carson, BJS Statistician",,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,
+Date of version: 1/2/2018,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Table 10.   Imprisonment rate of sentenced state and federal prisoners per 100,000 U.S. residents, by sex, race, Hispanic origin, and age, December 31, 2016",,,,,,,,,,,,,
+,,,Male,,,,,,Female,,,,
+Age group,,Total/a,All male/a,White/b,Black/b,Hispanic,Other/b,,All female/a,White/b,Black/b,Hispanic,Other/b
+,Total/c,450,847,400,"2,415","1,092","1,305",,64,49,96,67,118
+18–19,,130,244,72,853,298,338,,11,8,25,11,21
+20–24,,653,"1,191",453,"3,371","1,417","1,831",,85,61,141,85,168
+25–29,,998,"1,801",803,"4,725","2,249","2,485",,167,136,216,170,271
+30–34,,"1,091","1,981",960,"5,334","2,450","3,006",,186,155,232,193,312
+35–39,,"1,053","1,944",934,"5,435","2,359","2,791",,164,136,214,161,263
+40–44,,886,"1,655",820,"4,645","1,975","2,430",,129,108,181,114,213
+45–49,,710,"1,333",688,"3,781","1,611","2,106",,100,79,158,90,150
+50–54,,575,"1,093",572,"3,087","1,359","1,756",,75,56,124,69,133
+55–59,,377,733,376,"2,142","1,016","1,208",,40,28,72,41,79
+60–64,,220,439,229,"1,246",739,683,,19,13,33,22,35
+65 or older,,76,165,97,430,319,321,,5,4,8,8,9
+,Number of sentenced prisoners/d,"1,458,173","1,352,684","390,900","466,600","320,000","175,200",,"105,489","48,900","20,300","19,300","17,000"
+"Note: Counts based on prisoners with sentences of more than 1 year under the jurisdiction of state or federal correctional officials. Imprisonment rate is the number of prisoners under state or federal jurisdiction with a sentence of more than 1 year per 100,000 U.S. residents of corresponding sex, race, Hispanic origin, and age. Resident population estimates are from the U.S. Census Bureau for January 1, 2016. Includes imputed counts for North Dakota and Oregon, which did not submit 2016 NPS data. See Methodology.",,,,,,,,,,,,,
+"a/Includes American Indians and Alaska Natives; Asians, Native Hawaiians, and Other Pacific Islanders; and persons of two or more races.",,,,,,,,,,,,,
+b/Excludes persons of Hispanic or Latino origin.,,,,,,,,,,,,,
+c/Includes persons age 17 or younger.,,,,,,,,,,,,,
+d/Race and Hispanic origin totals are rounded to the nearest 100 to accommodate differences in data collection techniques between jurisdictions.,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics (NPS), 2016; Federal Justice Statistics Program, 2016; National Corrections Reporting Program, 2015; Survey of Prison Inmates, 2016 (preliminary); and U.S. Census Bureau, postcensal resident population estimates for January 1, 2017.",,,,,,,,,,,,,
